@@ -8,6 +8,8 @@ import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+// import indiaMart from "../../Assets/Projects/indiaMart.jpg"
+
 
 function Projects() {
   return (
@@ -25,9 +27,9 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              link="https://github.com/soumyajit4419/Chatify"
+              title="IndiaMart"
+              description="IndiaMART is online B2B marketplace, connecting buyers with suppliers, the channel focuses on providing a platform to Small & Medium Enterprises (SMEs), Large Enterprises as well as individuals build with react.js, Chakra-UI library. Have features which allows buyers to contact seller about requirement of various product."
+              link="https://india-mart-clone.netlify.app/"
             />
           </Col>
 
