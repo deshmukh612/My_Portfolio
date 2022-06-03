@@ -3,7 +3,7 @@
   <a href="https://priya-dehmukh-portfolio.netlify.app/" target="_blank">priya-dehmukh-portfolio</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/readme-img2.jpg" />
 </div>
 
 <br/>
