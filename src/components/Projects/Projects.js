@@ -32,6 +32,7 @@ function Projects() {
               title="IndiaMart"
               description="IndiaMART is online B2B marketplace, connecting buyers with suppliers, the channel focuses on providing a platform to Small & Medium Enterprises (SMEs), Large Enterprises as well as individuals build with react.js, Chakra-UI library. Have features which allows buyers to contact seller about requirement of various product."
               link="https://india-mart-clone.netlify.app/"
+              gitLink="https://github.com/deshmukh612/Indiamart-Clone"
             />
           </Col>
 
@@ -42,6 +43,7 @@ function Projects() {
               title="Meesho"
               description="The ecommerce website to purchase cholthing appreals build using html, css and javascript with gallery of different products, detailing and payment gateway."
               link="https://meeshoecom.netlify.app/"
+              gitLink="https://github.com/deshmukh612/meesho-clone"
             />
           </Col>
 
@@ -52,6 +54,7 @@ function Projects() {
               title="Naukari.com"
               description="A web application to provide platform for job-seeker, search for vacancies and apply for it.Online Editor which supports html, css, and js code with instant view of website and supports auto save of work using Local Storage"
               link="https://practical-wilson-0e6184.netlify.app/"
+              gitLink="https://github.com/deshmukh612/Naukri-Clone"
             />
           </Col>                   
         </Row>
