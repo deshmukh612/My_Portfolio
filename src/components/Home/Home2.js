@@ -24,17 +24,17 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Html, Javascript and react. </b>
+                <b className="purple"> Html, Javascript, React and Redux. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
+                <b className="purple">Web Technologies and Products </b> which connect large communinities
+                {/* also in areas related to{" "} */}
+                {/* <b className="purple">
                   Deep Learning and Natural Launguage Processing.
-                </b>
+                </b> */}
               </i>
               <br />
               <br />
