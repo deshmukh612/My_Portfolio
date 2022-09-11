@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Priya Deshmukh </span>
             from <span className="purple"> Maharashtra, India.</span>
-            <br />I am a Electronics And Telecommunication Engineer graduate from MIT, Pune. 
+            <br />I am a Electronics And Telecommunication Engineer graduate from MIT, Pune.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -22,13 +22,13 @@ function AboutCard() {
             <li className="about-activity">
               <ImPointRight /> Writting Daily Diary
             </li>
-            <li className="about-activity">
-              <ImPointRight /> baking
-            </li>
+            {/* <li className="about-activity">
+              <ImPointRight /> Baking
+            </li> */}
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Creative thinking inspires ideas, and ideas inspire change."{" "}
           </p>
           <footer className="blockquote-footer">Priya</footer>
         </blockquote>
