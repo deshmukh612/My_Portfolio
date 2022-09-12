@@ -19,7 +19,7 @@ function ResumeNew() {
 
   return (
     <div id="resume">
-      <Container fluid className="resume-section">
+      <Container fluid className="resume-section" style={{ marginTop: "-3%" }}>
         <Particle />
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
@@ -33,11 +33,11 @@ function ResumeNew() {
           </Button>
         </Row>
 
-        <Row className="resume">
+        {/* <Row className="resume">
           <Document file={resumeLink} className="d-flex justify-content-center">
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
           </Document>
-        </Row>        
+        </Row>         */}
 
       </Container>
     </div>
